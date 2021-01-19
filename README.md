@@ -28,10 +28,10 @@
  - Each scene is evaluated separately and  the final AEPE is the average of the 23 scene-specific models.
 
 
- <p float="left">
-  <img src="https://github.com/Anshul12256/MultiFlow-Optical-Flow-Estimation-Using-Deep-Neural-Networks/blob/main/Results/alley1_images.png" width="100" />
-  <img src="https://github.com/Anshul12256/MultiFlow-Optical-Flow-Estimation-Using-Deep-Neural-Networks/blob/main/Results/alley1_ground_truth.png" width="100" /> 
-  <img src="https://github.com/Anshul12256/MultiFlow-Optical-Flow-Estimation-Using-Deep-Neural-Networks/blob/main/Results/alley1_prediction.png" width="100" />
+ <p float="center">
+  <img src="https://github.com/Anshul12256/MultiFlow-Optical-Flow-Estimation-Using-Deep-Neural-Networks/blob/main/Results/alley1_images.png" width="300" />
+  <img src="https://github.com/Anshul12256/MultiFlow-Optical-Flow-Estimation-Using-Deep-Neural-Networks/blob/main/Results/alley1_ground_truth.png" width="300" /> 
+  <img src="https://github.com/Anshul12256/MultiFlow-Optical-Flow-Estimation-Using-Deep-Neural-Networks/blob/main/Results/alley1_prediction.png" width="300" />
 </p>
 
 ## Dataset - MPI Sintel 
