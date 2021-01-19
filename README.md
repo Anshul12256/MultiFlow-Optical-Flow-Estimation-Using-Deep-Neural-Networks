@@ -1,6 +1,6 @@
 ## MultiFlow - Optical Flow estimation using Deep Neural Networks
 
- - This repository contains the implementation of my Master Thesis titled: MultiFlow - Optical Flow estimation using Deep Neural Networks
+ - This repository contains the implementation of my Master Thesis titled: MultiFlow - Optical Flow estimation using Deep Neural Networks.
  - Optical flow is termed as the apparent motion of pixels that is caused due to the relative motion between the camera and the object between two consecutive images.
  - The MultiFlow model extends on this idea and uses 3 images rather than 2 images for optical flow estimation.
  - The model is adapted from the FlowNetC [5] model and extended to 3 images.
@@ -27,7 +27,7 @@
  - The MultiFlow models is a scene-specific model. 
  - Each scene is evaluated separately and  the final AEPE is the average of the 23 scene-specific models.
 
-
+ - Visualization Results of the MultiFlow Model:
  <p float="center">
   <img src="https://github.com/Anshul12256/MultiFlow-Optical-Flow-Estimation-Using-Deep-Neural-Networks/blob/main/Results/alley1_images.png" width="275" />
   <img src="https://github.com/Anshul12256/MultiFlow-Optical-Flow-Estimation-Using-Deep-Neural-Networks/blob/main/Results/alley1_ground_truth.png" width="275" /> 
