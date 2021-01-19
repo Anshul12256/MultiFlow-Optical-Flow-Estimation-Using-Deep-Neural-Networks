@@ -26,8 +26,8 @@
  - The MPI Sintel [6] dataset contains 23 different scenes. 
  - The MultiFlow models is a scene-specific model. 
  - Each scene is evaluated separately and  the final AEPE is the average of the 23 scene-specific models.
-
- - Visualization Results of the MultiFlow Model:
+ 
+ ### Visualization Results of the MultiFlow Model:
  <p float="center">
   <img src="https://github.com/Anshul12256/MultiFlow-Optical-Flow-Estimation-Using-Deep-Neural-Networks/blob/main/Results/alley1_images.png" width="275" />
   <img src="https://github.com/Anshul12256/MultiFlow-Optical-Flow-Estimation-Using-Deep-Neural-Networks/blob/main/Results/alley1_ground_truth.png" width="275" /> 
