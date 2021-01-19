@@ -29,9 +29,9 @@
 
 
  <p float="center">
-  <img src="https://github.com/Anshul12256/MultiFlow-Optical-Flow-Estimation-Using-Deep-Neural-Networks/blob/main/Results/alley1_images.png" width="300" />
-  <img src="https://github.com/Anshul12256/MultiFlow-Optical-Flow-Estimation-Using-Deep-Neural-Networks/blob/main/Results/alley1_ground_truth.png" width="300" /> 
-  <img src="https://github.com/Anshul12256/MultiFlow-Optical-Flow-Estimation-Using-Deep-Neural-Networks/blob/main/Results/alley1_prediction.png" width="300" />
+  <img src="https://github.com/Anshul12256/MultiFlow-Optical-Flow-Estimation-Using-Deep-Neural-Networks/blob/main/Results/alley1_images.png" width="275" />
+  <img src="https://github.com/Anshul12256/MultiFlow-Optical-Flow-Estimation-Using-Deep-Neural-Networks/blob/main/Results/alley1_ground_truth.png" width="275" /> 
+  <img src="https://github.com/Anshul12256/MultiFlow-Optical-Flow-Estimation-Using-Deep-Neural-Networks/blob/main/Results/alley1_prediction.png" width="275" />
 </p>
 
 ## Dataset - MPI Sintel 
