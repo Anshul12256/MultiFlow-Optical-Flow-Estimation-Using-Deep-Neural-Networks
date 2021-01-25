@@ -6,6 +6,7 @@
  - The model is adapted from the FlowNetC [5] model and extended to 3 images.
  
 ## MutiFlow Model Architecture
+Modifications performed to the original FlowNetC model are highlighted in red.
  - Contractive Network
  ![enter image description here](https://github.com/Anshul12256/MultiFlow-Optical-Flow-Estimation-Using-Deep-Neural-Networks/blob/main/Model%20Architecture/multiflow_contractive.png)
  - Refinement Network
